@@ -9,3 +9,8 @@
 // }
 
 // 9 Times Table
+// for (let i = 0; i < 11; i++) {
+//     console.log(`9 times ${i} is ${9*i}`)
+// }
+
+// Even/Odd Reporter 
