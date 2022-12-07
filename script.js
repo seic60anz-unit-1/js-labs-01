@@ -14,3 +14,10 @@
 // }
 
 // Even/Odd Reporter 
+// for (let i = 1; i < 21; i++) {
+//     if (i % 2) {
+//         console.log(`${i} is even`)
+//     } else {
+//         console.log(`${i} is odd`)
+//     }
+// }
